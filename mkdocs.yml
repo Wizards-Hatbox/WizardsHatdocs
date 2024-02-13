@@ -1,0 +1,11 @@
+site_name: Wizards Hatbox Dokumentation
+site_url: https://wizards-hatbox.github.io/WizardsHatdocs
+repo_url: https://github.com/Wizards-Hatbox/WizardsHatdocs
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - test.md
+   
