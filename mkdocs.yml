@@ -6,6 +6,10 @@ repo_url: https://github.com/Wizards-Hatbox/WizardsHatdocs
 
 theme:
   name: material
+  features: 
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
   palette:
 # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -28,10 +32,11 @@ theme:
 # This section determines the navigational layout for the website
 
 nav:
-  - Startseite: index.md
-  - Ziele: ziele.md
+  - 'Startseite': index.md
+    - 'Mitwirkende': credits.md
+  - 'Ziele': 
+    - 'Anforderungen der User': ziele.md
   
-
 # This section determines the extensions used by mkdocs
 
 markdown_extensions:
