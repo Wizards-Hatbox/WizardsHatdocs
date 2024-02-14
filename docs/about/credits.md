@@ -8,6 +8,8 @@
 
 ## Nicht-Entwickler
 
-- Paul Heugabel
-- Mika Colak
 - Arne Gallus
+- Jannis Bähnisch
+- Mika Colak
+- Moritz Büttner
+- Paul Heugabel
