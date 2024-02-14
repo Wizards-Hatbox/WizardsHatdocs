@@ -2,13 +2,36 @@ site_name: Wizards Hatbox Dokumentation
 site_url: https://wizards-hatbox.github.io/WizardsHatdocs
 repo_url: https://github.com/Wizards-Hatbox/WizardsHatdocs
 
+# This sections describes the theme for the website
+
 theme:
   name: material
+  palette:
+    primary: deep purple
+    accent: deep purple
+# Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media:  "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# This section determines the navigational layout for the website
 
 nav:
   - Startseite: index.md
   - Ziele: ziele.md
   
+
+# This section determines the extensions used by mkdocs
+
 markdown_extensions:
 
   # Python Markdown
