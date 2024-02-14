@@ -38,6 +38,7 @@ nav:
   - Technische Dokumentation:
     - Technologien: 'technical/technologies.md'
   - Sonstige Dokumentation:
+    - Charakter Erstellung: 'nontechnical/char-creator.md'
     - Ziele: 'nontechnical/ziele.md'
   - Über uns:
     - Mitwirkende: 'about/credits.md'
