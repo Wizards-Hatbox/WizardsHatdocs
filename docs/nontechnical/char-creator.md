@@ -12,6 +12,8 @@
 
 ![Bildschrim aufnahme einer Discord Nachricht](../media/character_creator_first_concept_for_MVP.png)
 
+## Meeting vom Sonntag. 31. Mar 2024
+
 ### User Stories
 
 Als **Spieler** möchte ich bei der Character Erstellung für die Proficiencies bzw. Übungen die dazugehörigen Stats angezeigt bekommen, damit mir es leicher fällt, den Überblick über meinen Character zu behalten.
