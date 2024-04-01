@@ -2,14 +2,15 @@
 
 ## Entwickler
 
-- Max Sgodin
 - Tobias Hartenstein
+- Max Sgodin
 
 
 ## Nicht-Entwickler
 
-- Arne Gallus
 - Jannis Bähnisch
+- Moritz Bütner
 - Mika Colak
-- Moritz Büttner
+- René Dallinger
+- Arne Gallus
 - Paul Heugabel
