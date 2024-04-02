@@ -12,6 +12,8 @@
 
 ![Bildschrim aufnahme einer Discord Nachricht](../media/character_creator_first_concept_for_MVP.png)
 
+## Meeting vom Sonntag. 31. Mar 2024
+
 ### User Stories
 
 Als **Spieler** möchte ich bei der Character Erstellung für die Proficiencies bzw. Übungen die dazugehörigen Stats angezeigt bekommen, damit mir es leicher fällt, den Überblick über meinen Character zu behalten.
@@ -38,3 +40,5 @@ Ich als Nutzer möchte das das Programm alle nötigen Informationen für die Ers
 Ich als Spieler möchte alle Entscheidungen die ich in der Erstellung getroffen habe jederzeit rückgängig machen können um meine eigenen Fehler beheben zu können bzw. Entscheidungen ändern kann.
 
 Als erfahrener Nutzer möchte ich, dass die Erstellung offener gestaltet ist und ich nicht an eine festen Ablauf gebunden bin, damit ich frei hin- und herspringen kann und auf meine Weise den Charakter erstellen kann. 
+
+Ich liebe rene
