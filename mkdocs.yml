@@ -37,6 +37,7 @@ nav:
     - Linksammlung : 'home/links.md'
   - Technische Dokumentation:
     - Technologien: 'technical/technologies.md'
+    - Datenstruckturen: 'technical/data-structures.md'
   - Sonstige Dokumentation:
     - Charakter Erstellung: 'nontechnical/char-creator.md'
     - Ziele: 'nontechnical/ziele.md'
